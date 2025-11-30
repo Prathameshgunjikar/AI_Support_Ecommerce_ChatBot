@@ -63,6 +63,7 @@ Processor: i3 or above
 ```
 
 # 🔄 Data Flow Diagram
+<img src="https://github.com/Prathameshgunjikar/AI_Support_Ecommerce_ChatBot/blob/main/Screenshot%202025-11-30%20123713.png" width="400"/>
 
 # Methodology 
 
@@ -93,8 +94,7 @@ ML/NLP-based matching
 ```
 
 # 🧪 Results
-
-
+<img src="https://github.com/Prathameshgunjikar/AI_Support_Ecommerce_ChatBot/blob/main/Screenshot%202025-11-30%20123806.png" width="400"/>
 
 
 
